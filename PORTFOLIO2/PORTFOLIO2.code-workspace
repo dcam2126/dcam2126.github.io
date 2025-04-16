@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../MITCHELL"
+		},
+		{
+			"path": "../Monedero_Portfolio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Monedero_Portfolio"
+	}
+}
